@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+profiling.ipynb
+sample_submission.csv
+test.csv
+train.csv
+catboost_info
+submission.csv
