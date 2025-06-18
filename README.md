@@ -6,7 +6,7 @@
 
 The dataset for this project can be found on [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview/citation) (licensed under CC BY-SA 3.0).
 
-The "Spaceship Titanic" dataset contains records of passengers from a fictional interstellar voyage, created for a Kaggle competition, with the goal of predicting whether or not a passenger was transported to another dimension following a collision with a spacetime anomaly. The dataset includes details such as passengers home planets, ages, whether they were in cryo sleep, cabin information, and their spending at various amenities. It also contains a target variable ("Transported"), indicating whether a passenger was teleported.
+The "Spaceship Titanic" dataset contains 8693 records of passengers from a fictional interstellar voyage, created for a Kaggle competition, with the goal of predicting whether or not a passenger was transported to another dimension following a collision with a spacetime anomaly. The dataset includes details such as passengers home planets, ages, whether they were in cryo sleep, cabin information, and their spending at various amenities. It also contains a target variable ("Transported"), indicating whether a passenger was teleported out of the ship.
 
 Around 24% of the instances are corrupted (have some missing values). While some of this information can be filled by identifying commonalities between passengers, others require a more creative segmentation by filling in the most frequent values within a group.
 
